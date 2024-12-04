@@ -75,4 +75,4 @@ Dotfuscator/
 local.settings.json
 
 # Windows Form Designer generated code files
-*.Designer.cs
+# *.Designer.cs
