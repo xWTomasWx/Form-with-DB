@@ -1,0 +1,78 @@
+# Build Results
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code settings
+.vscode/
+
+# VS specific files
+.vs/
+
+# Windows specific files
+*.lnk
+*.url
+
+# Logs
+*.log
+
+# NUGET PACKAGES
+*.nupkg
+packages/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# StyleCop
+StyleCopReport.xml
+
+# TeamCity
+_TeamCity*
+
+# Dotfuscator
+Dotfuscator/
+
+# Python Tools for Visual Studio
+*.ptvsd
+
+# Visual Studio 2019 (and older)
+.vs/
+
+# Local History for JetBrains IDE
+.idea/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# User-specific files
+*.user
+
+# Azure Function/Deployment Configs
+local.settings.json
+
+# Windows Form Designer generated code files
+*.Designer.cs
